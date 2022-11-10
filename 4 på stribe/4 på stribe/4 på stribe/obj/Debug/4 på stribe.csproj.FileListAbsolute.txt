@@ -1,0 +1,11 @@
+C:\Users\nico6\OneDrive\C#\4 på stribe\4 på stribe\4 på stribe\bin\Debug\4 på stribe.exe.config
+C:\Users\nico6\OneDrive\C#\4 på stribe\4 på stribe\4 på stribe\bin\Debug\4 på stribe.exe
+C:\Users\nico6\OneDrive\C#\4 på stribe\4 på stribe\4 på stribe\bin\Debug\4 på stribe.pdb
+C:\Users\nico6\OneDrive\C#\4 på stribe\4 på stribe\4 på stribe\obj\Debug\4 på stribe.csproj.AssemblyReference.cache
+C:\Users\nico6\OneDrive\C#\4 på stribe\4 på stribe\4 på stribe\obj\Debug\4 på stribe.csproj.SuggestedBindingRedirects.cache
+C:\Users\nico6\OneDrive\C#\4 på stribe\4 på stribe\4 på stribe\obj\Debug\_4_på_stribe.Properties.Resources.resources
+C:\Users\nico6\OneDrive\C#\4 på stribe\4 på stribe\4 på stribe\obj\Debug\4 på stribe.csproj.GenerateResource.cache
+C:\Users\nico6\OneDrive\C#\4 på stribe\4 på stribe\4 på stribe\obj\Debug\4 på stribe.csproj.CoreCompileInputs.cache
+C:\Users\nico6\OneDrive\C#\4 på stribe\4 på stribe\4 på stribe\obj\Debug\4 på stribe.exe
+C:\Users\nico6\OneDrive\C#\4 på stribe\4 på stribe\4 på stribe\obj\Debug\4 på stribe.pdb
+C:\Users\nico6\OneDrive\C#\4 på stribe\4 på stribe\4 på stribe\obj\Debug\_4_på_stribe.Player1.resources
